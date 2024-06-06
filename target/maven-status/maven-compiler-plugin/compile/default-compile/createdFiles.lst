@@ -1,0 +1,10 @@
+ar\utn\frbb\tup\persistance\ClienteDAO.class
+ar\utn\frbb\tup\persistance\BaseAbstractaDAO.class
+ar\utn\frbb\tup\persistance\CuentaDAO.class
+ar\utn\frbb\tup\persistance\entity\CuentaEntidad.class
+ar\utn\frbb\tup\model\enums\TipoPersona.class
+ar\utn\frbb\tup\model\MovimientosCuenta.class
+ar\utn\frbb\tup\model\enums\TipoOperacion.class
+ar\utn\frbb\tup\persistance\entity\ClienteEntidad.class
+ar\utn\frbb\tup\model\excepetions\ClienteYaExisteExcepcion.class
+ar\utn\frbb\tup\model\Cliente.class
